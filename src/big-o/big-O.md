@@ -1,6 +1,8 @@
 ## Big O
 Big O talks about how long algorithm takes to run regardless of computer difference e.g. cpu 
 
+## [Big O CheatSheet](./BigO-CheatSheet.pdf)
+
 ## [Big O Complexity Chart](./big-o.png)
 
 ## O(n) -> Linear Time -> No of elements increases No of Operations increases
